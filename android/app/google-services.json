@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965889901162",
+    "project_id": "muevelo-8e4a9",
+    "storage_bucket": "muevelo-8e4a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965889901162:android:1c680f99c21c0bb0b78013",
+        "android_client_info": {
+          "package_name": "com.example.muevelo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrOVznpYkNCcF97hmPB5xgZPmgGaN31bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
